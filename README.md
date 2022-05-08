@@ -6,7 +6,6 @@
 
 [![](./Beat_of_Love/img.png)](https://www.shadertoy.com/view/NlBfWz)
 
-> ###  Click image for shadertoy source. 
 ## Toon-style Gravity Wave (2022/05/02)
 
 
