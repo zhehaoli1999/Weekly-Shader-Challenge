@@ -175,7 +175,7 @@ float GetLight(vec3 point)
     vec3 to_light = normalize(light_pos - point); 
     vec3 normal = GetNormal(point); 
     
-    float intensity = 0.6;
+    float intensity = 0.8;
     float diffuse = intensity * clamp(dot(to_light, normal), 0., 1.); 
     
     float ambient = 0.01;
