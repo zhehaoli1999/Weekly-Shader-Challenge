@@ -2,7 +2,7 @@
 
 > ###  Click image for shadertoy source. 
 
-## Cloud at Dusk (Fork of "2D Clouds" from drift@ShaderToy) (2022/05/29)
+## Cloud at Dusk (Modified fork of "2D Clouds" from drift@ShaderToy) (2022/05/29)
 
 [![](./Cloud-At-Dusk-Fork-of-2D-Clouds/img.png)](https://www.shadertoy.com/view/ssccRf)
 
