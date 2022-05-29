@@ -1,6 +1,11 @@
 # Weekly "2-hour" Shader Challenge
 
 > ###  Click image for shadertoy source. 
+
+## Cloud at Dusk (Fork of "2D Clouds" from drift@ShaderToy) (2022/05/29)
+
+[![](./Cloud-At-Dusk-Fork-of-2D-Clouds/img.png)](https://www.shadertoy.com/view/ssccRf)
+
 ## Blue Planet (2022/05/22)
 
 [![](./Blue_Planet/img.png)](https://www.shadertoy.com/view/fdtcz7)
